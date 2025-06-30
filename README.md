@@ -1,7 +1,7 @@
-# Online Store Project
+# Online Store "Star Device"
 
 ## Description
-This is an online store application with a completed backend (Node.js, PostgreSQL, Express) and a partially developed frontend (React, Bootstrap). The project is currently a Work in Progress.
+online store application with completed backend (Node.js, PostgreSQL, Express) and partially developed frontend (React, Bootstrap). The project is currently a Work in Progress.
 
 ## Features
 - Backend: API for types, brands, and devices.
